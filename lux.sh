@@ -1,5 +1,5 @@
 #!/data/data/com.termux/files/usr/bin/bash
-echo -e "\033[31;1;4mDEVELOPED BY HACKERSPUNK033[0m"
+echo -e "\033[31;1;4mDEVELOPED BY HACKERSPUNK"
 sleep 5.0
 time1="$( date +"%r" )"
 
