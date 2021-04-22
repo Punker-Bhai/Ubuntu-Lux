@@ -17,7 +17,7 @@ Install Ubuntu In Your Termux ; Easy Method
 * pkg install wget proot
 * mkdir -p ~/jails/ubuntu
 * cd ~/jails/ubuntu
-* git clone https://github.com/Punker-Bhai/Ubuntu-Lux
+* git clone https://github.com/hackerspunk/Ubuntu-Lux
 * cd Ubuntu-Lux
 * bash lux.sh
 
