@@ -23,6 +23,6 @@ cd Ubuntu-Lux
 bash lux.sh
 ````
 
-**After running it you can run "start-ubuntu.sh" to switch into your ubuntu**
+**After running it you can run `start-ubuntu.sh` to switch into your ubuntu**
 
 ## Thanks For Using This Tool !
