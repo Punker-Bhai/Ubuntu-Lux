@@ -18,7 +18,7 @@ pkg install git -y
 pkg install wget proot
 mkdir -p ~/jails/ubuntu
 cd ~/jails/ubuntu
-git clone https://github.com/hackerspunk/Ubuntu-Lux
+git clone https://github.com/netslutter/Ubuntu-Lux
 cd Ubuntu-Lux
 bash lux.sh
 ````
